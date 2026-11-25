@@ -1,0 +1,11 @@
+# checkpoints and data
+backbone_*/
+head_*.pt
+*.safetensors
+*.csv
+submission.csv
+patched_adapters/
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
